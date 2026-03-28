@@ -1,0 +1,32 @@
+{
+  "name": "token-consumer-optimizer",
+  "version": "1.0.0",
+  "description": "Token消费优选 - 智能AI模型消费决策助手",
+  "author": "Token Master Team",
+  "entry": "optimizer.py",
+  "commands": [
+    {
+      "name": "recommend",
+      "description": "智能推荐最优AI模型"
+    },
+    {
+      "name": "compare",
+      "description": "对比不同模型价格"
+    },
+    {
+      "name": "estimate",
+      "description": "估算Token调用成本"
+    },
+    {
+      "name": "budget",
+      "description": "制定Token消费预算"
+    },
+    {
+      "name": "report",
+      "description": "生成消费报告"
+    }
+  ],
+  "dependencies": [],
+  "homepage": "http://token-master.cn/shop/",
+  "tags": ["token", "cost", "optimization", "ai", "pricing"]
+}
