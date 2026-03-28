@@ -1,6 +1,18 @@
-# Token消费优选技能 (Token Consumer Optimizer)
+# Token消费优选技能 v2.0 (Token Consumer Optimizer)
 
-智能AI模型消费决策助手，帮你在众多AI模型中选择最经济、最适合的消费方案。
+智能AI模型消费决策助手 v2.0，帮你在众多AI模型中选择最经济、最适合的消费方案。
+
+**Version:** 2.0.0
+
+## 新特性 v2.0
+
+- ✅ 智能推荐算法 (基于任务类型/预算/质量)
+- ✅ 实时价格抓取 (多平台价格)
+- ✅ 成本预测模型 (日/月/年预测)
+- ✅ 性价比分析 (质量/成本比值)
+- ✅ 节省潜力计算
+- ✅ API接口
+- ✅ 统一数据模型 (token-ecosys-core)
 
 ## 核心功能
 
@@ -56,8 +68,8 @@
 这是Token经济生态的重要组成部分：
 - **Token Master**: Token压缩 (已发布)
 - **Compute Market**: 算力市场 (已发布)
-- **Token Consumer Optimizer**: 消费优选 (本技能)
-- **Token Auditor**: 审计监控 (计划中)
-- **Token Exchange**: 交易平台 (计划中)
+- **Token Consumer Optimizer**: 消费优选 (本技能) v2.0
+- **Token Auditor**: 审计监控 (已发布)
+- **Token Exchange**: 交易平台 (已发布)
 
-**Version:** 1.0.0
+**Version:** 2.0.0
